@@ -1,0 +1,35 @@
+body{
+    font: 15px Arial,Helvetica,sans-serif ;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4; 
+  }
+
+.contenedor {
+    background-color: rgb(78, 76, 223);
+    padding-bottom:20px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-right: 20px;
+    overflow: hidden;
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    padding-bottom:20px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-right: 100px;
+   
+}
+header a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
